@@ -38,5 +38,5 @@ I am a Computer Networking and Data Communication student at VNU University of E
 ---
 
 ### 🌐 Socials & Badges
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinnguyen05/)
 [![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-orange?style=flat-square&logo=amazon-aws)](https://www.credly.com/badges/c7412f38-9929-440b-a5e1-d24f44a3fcfc)
