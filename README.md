@@ -1,3 +1,4 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FtinNguyen05%2FtinNguyen05&label=PROFILE%20VIEWS&countColor=%23263759)
 # Hi there 👋 
 # My name is Nguyen Ba Trong Tin
 
